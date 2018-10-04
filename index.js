@@ -16,3 +16,4 @@ app.get("/quem-somos", (req, res) => {
 app.listen(3000, () => {
     console.log("Servidor inicializado")
 });
+
